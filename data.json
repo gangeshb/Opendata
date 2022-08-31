@@ -5,22 +5,22 @@
   "avg_amt": "168.76209242873321"
 }, {
   "state": "c",
-  "all_txn": "44352912",
-  "total_amt": "7485581647.0",
-  "avg_amt": "168.77317202983193"
+  "all_txn": "0",
+  "total_amt": "0",
+  "avg_amt": "1"
 }, {
   "state": "e",
-  "all_txn": "9359533",
-  "total_amt": "971273915.0",
-  "avg_amt": "103.77375826336635"
+  "all_txn": "9",
+  "total_amt": "7",
+  "avg_amt": "10"
 }, {
   "state": "b",
-  "all_txn": "4605557",
-  "total_amt": "931631459.0",
-  "avg_amt": "202.2842099229257"
+  "all_txn": "4",
+  "total_amt": "9",
+  "avg_amt": "2"
 }, {
   "state": "d",
-  "all_txn": "989454",
-  "total_amt": "168075895.0",
-  "avg_amt": "169.86731571149357"
+  "all_txn": "9",
+  "total_amt": "1",
+  "avg_amt": "1"
 }]
