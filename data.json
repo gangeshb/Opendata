@@ -1,20 +1,17 @@
 {
-  "state" : "Jharkhand",
-  "metrics" : [
+  "Jharkhand" : [
     {
       "all txn" : 1114437 ,
       "total_amt" : 123456,
       "avg val" : "Rs 1000"
     }
   ]
-},
-{
-  "state" : "Punjab",
-  "metrics" : [
+  ,
+  "Bihar" : [
     {
-      "all txn" : 51376274 ,
-      "total_amt" : 42456,
-      "avg val" : "Rs 9000"
+      "all txn" : 1114437 ,
+      "total_amt" : 123456,
+      "avg val" : "Rs 1000"
     }
-  ] 
+  ]
 }
