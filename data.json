@@ -1,26 +1,196 @@
 [{
-  "state": "c",
+  "state": "Andhra Pradesh ",
   "all_txn": "1114437",
   "total_amt": "188074720.0",
   "avg_amt": "168.76209242873321"
 }, {
-  "state": "a",
-  "all_txn": "0",
-  "total_amt": "0",
-  "avg_amt": "1"
+  "state": "Andhra Pradesh",
+  "all_txn": "44352912",
+  "total_amt": "7485581647.0",
+  "avg_amt": "168.77317202983193"
 }, {
-  "state": "e",
-  "all_txn": "9",
-  "total_amt": "7",
-  "avg_amt": "10"
+  "state": "Kerala",
+  "all_txn": "9359533",
+  "total_amt": "971273915.0",
+  "avg_amt": "103.77375826336635"
 }, {
-  "state": "b",
-  "all_txn": "4",
-  "total_amt": "9",
-  "avg_amt": "2"
+  "state": "Assam",
+  "all_txn": "4605557",
+  "total_amt": "931631459.0",
+  "avg_amt": "202.2842099229257"
 }, {
-  "state": "d",
-  "all_txn": "9",
-  "total_amt": "1",
-  "avg_amt": "1"
+  "state": "Meghalaya",
+  "all_txn": "989454",
+  "total_amt": "168075895.0",
+  "avg_amt": "169.86731571149357"
+}, {
+  "state": "Punjab",
+  "all_txn": "25040851",
+  "total_amt": "2533259330.0",
+  "avg_amt": "101.16506543647428"
+}, {
+  "state": "Tamil Nadu",
+  "all_txn": "79527719",
+  "total_amt": "7965096632.75",
+  "avg_amt": "100.15497405061998"
+}, {
+  "state": "Jharkhand\u0027Chandil",
+  "all_txn": "131222",
+  "total_amt": "7858240.0",
+  "avg_amt": "59.885080245690524"
+}, {
+  "state": "Maharashtra ",
+  "all_txn": "727063",
+  "total_amt": "64383605.0",
+  "avg_amt": "88.552993344455771"
+}, {
+  "state": "Karnataka",
+  "all_txn": "63603699",
+  "total_amt": "7277098255.0",
+  "avg_amt": "114.41312957285696"
+}, {
+  "state": "Gujurat",
+  "all_txn": "868599",
+  "total_amt": "136399720.0",
+  "avg_amt": "157.03416651412235"
+}, {
+  "state": "Himachal Pradesh",
+  "all_txn": "2383400",
+  "total_amt": "158101535.0",
+  "avg_amt": "66.334452882436949"
+}, {
+  "state": "Jharkhand",
+  "all_txn": "6546055",
+  "total_amt": "1469723645.0",
+  "avg_amt": "224.52051579157217"
+}, {
+  "state": "Madhya Pradesh",
+  "all_txn": "38743392",
+  "total_amt": "7227791796.0",
+  "avg_amt": "186.55547237577935"
+}, {
+  "state": "Andhra pradesh",
+  "all_txn": "1435601",
+  "total_amt": "238046890.0",
+  "avg_amt": "165.81688784000551"
+}, {
+  "state": "MadhyaPradesh",
+  "all_txn": "140160",
+  "total_amt": "18820030.0",
+  "avg_amt": "134.27532819634703"
+}, {
+  "state": "Uttar Pradesh ",
+  "all_txn": "2985271",
+  "total_amt": "246127055.0",
+  "avg_amt": "82.447139639918731"
+}, {
+  "state": "Uttrakhand",
+  "all_txn": "57245",
+  "total_amt": "3263410.0",
+  "avg_amt": "57.007773604681567"
+}, {
+  "state": "Maharashtra",
+  "all_txn": "87500146",
+  "total_amt": "13694599173.5",
+  "avg_amt": "156.509443692814"
+}, {
+  "state": "Rajasthan",
+  "all_txn": "56150910",
+  "total_amt": "19957674452.0",
+  "avg_amt": "355.42922549251472"
+}, {
+  "state": "J\u0026K",
+  "all_txn": "5006079",
+  "total_amt": "989776955.0",
+  "avg_amt": "197.71500909194603"
+}, {
+  "state": "Telangana",
+  "all_txn": "37471933",
+  "total_amt": "5557037336.5999994",
+  "avg_amt": "148.29865693344416"
+}, {
+  "state": "Haryana",
+  "all_txn": "51484585",
+  "total_amt": "5890037408.0",
+  "avg_amt": "114.40390182809087"
+}, {
+  "state": "Uttarakhand",
+  "all_txn": "5980778",
+  "total_amt": "624959985.0",
+  "avg_amt": "104.49476389192165"
+}, {
+  "state": "Odisha",
+  "all_txn": "9599825",
+  "total_amt": "2068849735.0",
+  "avg_amt": "215.5091092806378"
+}, {
+  "state": "West Bengal",
+  "all_txn": "28433301",
+  "total_amt": "5346998695.0",
+  "avg_amt": "188.05409526667322"
+}, {
+  "state": "Chhattisgarh",
+  "all_txn": "7550378",
+  "total_amt": "1358955490.0",
+  "avg_amt": "179.98509346154572"
+}, {
+  "state": "Tamilnadu",
+  "all_txn": "378329",
+  "total_amt": "26185770.0",
+  "avg_amt": "69.214281749482566"
+}, {
+  "state": "Chattishgarh",
+  "all_txn": "947521",
+  "total_amt": "161381685.0",
+  "avg_amt": "170.31990320003476"
+}, {
+  "state": "New Delhi",
+  "all_txn": "72057",
+  "total_amt": "19813250.0",
+  "avg_amt": "274.96634608712549"
+}, {
+  "state": "Odisha ",
+  "all_txn": "381982",
+  "total_amt": "62221380.0",
+  "avg_amt": "162.89086920326088"
+}, {
+  "state": "Delhi",
+  "all_txn": "429024",
+  "total_amt": "29057970.0",
+  "avg_amt": "67.730406690534821"
+}, {
+  "state": "Karnataka ",
+  "all_txn": "849422",
+  "total_amt": "67009900.0",
+  "avg_amt": "78.888820868779064"
+}, {
+  "state": "Gujarat",
+  "all_txn": "46419542",
+  "total_amt": "9627493598.75",
+  "avg_amt": "207.40173607809407"
+}, {
+  "state": "Warangal",
+  "all_txn": "247848",
+  "total_amt": "22232735.0",
+  "avg_amt": "89.703104322003981"
+}, {
+  "state": "Madhya Pradesh ",
+  "all_txn": "2545727",
+  "total_amt": "605821565.0",
+  "avg_amt": "237.97585719128568"
+}, {
+  "state": "Bihar",
+  "all_txn": "11632955",
+  "total_amt": "2477189380.0",
+  "avg_amt": "212.94584050226297"
+}, {
+  "state": "Telangana ",
+  "all_txn": "230896",
+  "total_amt": "15393410.0",
+  "avg_amt": "66.668153627607253"
+}, {
+  "state": "Uttar Pradesh",
+  "all_txn": "72322579",
+  "total_amt": "14765710789.0",
+  "avg_amt": "204.164605205796"
 }]
