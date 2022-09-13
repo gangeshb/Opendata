@@ -1,0 +1,101 @@
+[{
+  "state": "Andhra Pradesh",
+  "all_txn": "44849745",
+  "total_amt": "7575425676.0",
+  "avg_amt": "168.90677251342254"
+}, {
+  "state": "Andhra Pradesh ",
+  "all_txn": "1128914",
+  "total_amt": "190862404.0",
+  "avg_amt": "169.06726641710549"
+}, {
+  "state": "Andhra pradesh",
+  "all_txn": "1452024",
+  "total_amt": "240939652.5",
+  "avg_amt": "165.93365708831257"
+}, {
+  "state": "Assam",
+  "all_txn": "4659259",
+  "total_amt": "942186899.0",
+  "avg_amt": "202.21818512342853"
+}, {
+  "state": "Bihar",
+  "all_txn": "11762225",
+  "total_amt": "2504914580.0",
+  "avg_amt": "212.96264779835437"
+}, {
+  "state": "Chattishgarh",
+  "all_txn": "958345",
+  "total_amt": "163309110.0",
+  "avg_amt": "170.40743156170257"
+}, {
+  "state": "Chhattisgarh",
+  "all_txn": "7642053",
+  "total_amt": "1377098690.0",
+  "avg_amt": "180.20009675410535"
+}, {
+  "state": "Delhi",
+  "all_txn": "433621",
+  "total_amt": "29405065.0",
+  "avg_amt": "67.812825024618178"
+}, {
+  "state": "Gujarat",
+  "all_txn": "46946619",
+  "total_amt": "9741423972.0",
+  "avg_amt": "207.50001127876737"
+}, {
+  "state": "Gujurat",
+  "all_txn": "878285",
+  "total_amt": "138030915.0",
+  "avg_amt": "157.15959512003502"
+}, {
+  "state": "Haryana",
+  "all_txn": "52063982",
+  "total_amt": "5957482705.0",
+  "avg_amt": "114.42618248062536"
+}, {
+  "state": "Himachal Pradesh",
+  "all_txn": "2402579",
+  "total_amt": "159420830.0",
+  "avg_amt": "66.354042884750115"
+}, {
+  "state": "J\u0026K",
+  "all_txn": "5056336",
+  "total_amt": "999923580.0",
+  "avg_amt": "197.75655336196024"
+}, {
+  "state": "Jharkhand",
+  "all_txn": "6618415",
+  "total_amt": "1486152565.0",
+  "avg_amt": "224.54810781735517"
+}, {
+  "state": "Jharkhand\u0027Chandil",
+  "all_txn": "136269",
+  "total_amt": "8160480.0",
+  "avg_amt": "59.885080245690538"
+}, {
+  "state": "Karnataka",
+ "all_txn": "64286328",
+  "total_amt": "7362178450.0",
+  "avg_amt": "114.52168258855917"
+}, {
+  "state": "Karnataka ",
+  "all_txn": "857747",
+  "total_amt": "67750060.0",
+  "avg_amt": "78.986064655428692"
+}, {
+  "state": "Kerala",
+  "all_txn": "9461510",
+  "total_amt": "982728310.0",
+  "avg_amt": "103.86590618199429"
+}, {
+  "state": "Madhya Pradesh",
+  "all_txn": "39198976",
+  "total_amt": "7316057049.0",
+  "avg_amt": "186.63898386019059"
+}, {
+  "state": "Madhya Pradesh ",
+  "all_txn": "2575166",
+  "total_amt": "612940985.0",
+  "avg_amt": "238.01998977929958"
+}]
